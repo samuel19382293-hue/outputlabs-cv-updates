@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/samuel19382293-hue/outputlabs-cv-updates/releases/download/v1.0.1/OutputCV.exe",
+  "notes": "PS Remote Play stability + controller recognition fix + smaller Stabilizer pop-out.",
+  "required": false,
+  "gpc_url": "",
+  "sha256": "bc22550bc6428273258fa091641df2bcfbdaca312f753fc8acbe33bfff2bf530",
+  "size": "225082880",
+  "sig": "Tyq-OqmCjbfLrmDavWIK4glaI6JtF1OI4PlTjT2akHvHaZqJs9fXQeZoDoWXQwaVe0FgiLR041-GgDKCpAUUMA"
+}
