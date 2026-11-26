@@ -1,10 +1,10 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/samuel19382293-hue/outputlabs-cv-updates/releases/download/v1.0.3/OutputCV.exe",
-  "notes": "Real photo theme backgrounds (Output, Chill, Midnight, Beach, Cyberpunk) with solid panels. Brand new Stabilizer with Park, hold range and server tick controls on show, plus a smaller pop-out. Stabilizer-only access. Capture card auto-reconnects if the picture freezes.",
+  "version": "1.0.4",
+  "url": "https://github.com/samuel19382293-hue/outputlabs-cv-updates/releases/download/v1.0.4/OutputCV.exe",
+  "notes": "Stabilizer-only buyers can sign in and use the Stabilizer on its own. Clear reasons when access can't open. Update now button on the sign-in screen.",
   "required": false,
   "gpc_url": "",
-  "sha256": "37da4891e1eb0fcad89b23675466dc27e09134eac8324df1dabb06f2f616a80d",
-  "size": "227330048",
-  "sig": "ULhmnM1J56ii672lGyZE6IOUEL8Hswy11S17af5xWDM3zJRNFhGQNnYIJK9ePUTrCqWUkokQ1LczznQ87O2suQ"
+  "sha256": "e4d706463020969188f4439e0d528dc3543bd9e4b5e09ae2667f176ba7d6f59c",
+  "size": "227375104",
+  "sig": "hyhRN9a_eLQu5XyguVYy1sEyVTxgXwdnHF959tO9p2X5O0trIZhKtqIQekqAFq7qRwJnxF0gixO8Bl4UNmS2cA"
 }
