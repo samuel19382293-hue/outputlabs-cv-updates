@@ -1,10 +1,11 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/samuel19382293-hue/outputlabs-cv-updates/releases/download/v1.0.4/OutputCV.exe",
-  "notes": "Stabilizer-only buyers can sign in and use the Stabilizer on its own. Clear reasons when access can't open. Update now button on the sign-in screen.",
-  "required": false,
+  "version": "1.0.5",
+  "url": "https://github.com/samuel19382293-hue/outputlabs-cv-updates/releases/download/v1.0.5/OutputCV.exe",
+  "notes": "Discord sign-in fixed. Update to keep signing in with Discord.",
+  "required": true,
   "gpc_url": "",
-  "sha256": "e4d706463020969188f4439e0d528dc3543bd9e4b5e09ae2667f176ba7d6f59c",
-  "size": "227375104",
-  "sig": "hyhRN9a_eLQu5XyguVYy1sEyVTxgXwdnHF959tO9p2X5O0trIZhKtqIQekqAFq7qRwJnxF0gixO8Bl4UNmS2cA"
+  "sha256": "e61b2352c3586c017f4d64caaf75855d4921669f1adfe76da7e0c4eb86188ab4",
+  "size": "227339264",
+  "discord_client_id": "1575932267027501186",
+  "sig": "EhKF3jMxLU4UElrDwnEhwNxrevdMEOVnPcMzZV-CAo7ifz3j1K-_NxM1kmdeZaxWFa5Hvb2AlH1HyA1QhGPQsA"
 }
